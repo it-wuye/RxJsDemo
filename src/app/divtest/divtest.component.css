@@ -1,0 +1,7 @@
+#drag {  
+    position: absolute;  
+    width: 100px;  
+    height: 100px;  
+    background-color: tomato;  
+    cursor: all-scroll;
+}
